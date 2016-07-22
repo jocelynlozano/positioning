@@ -1,0 +1,22 @@
+body{
+	margin: 0%;
+	padding: 0%;
+}
+div{
+	width: 200px;
+	height: 200px;
+}
+.rosado{
+	background: #ee3e64;
+}
+.celeste{
+	background: #44accf;
+	position: relative;
+	left: 14.61%;
+	bottom: 20%
+	right:10%;
+	top:0%;
+}
+.verde{
+	background: #b7d84b;
+}

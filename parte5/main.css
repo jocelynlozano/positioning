@@ -1,0 +1,32 @@
+body{
+	margin: 0%;
+	padding: 0%;
+}
+div{
+	width: 200px;
+	height: 200px;
+}
+.rosado{
+	background: #ee3e64;
+	position: absolute;
+	left: 0%;
+	top: 0%;
+}
+.celeste{
+	background: #44accf;
+	position: absolute;
+	right: 0%;
+	top:0%;
+}
+.verde{
+	background: #b7d84b;
+	position: absolute;
+	left: 0%;
+	bottom: 0%;
+}
+.amarillo{
+	background: yellow;
+	position: absolute;
+	right: 0%;
+	bottom: 0%;
+}
